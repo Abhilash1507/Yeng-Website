@@ -52,11 +52,12 @@ body a{
 }
 
 .top-nav ul li a:hover{
-	color:#2ABF5E;
+	color:#1fad51;
+	text-decoration: none;
 }
-.top-nav ul li.active a{
-	color:#bbdd65;
-	
+.top-nav ul li.active {
+	color:#aedd4f;
+	text-decoration: none;
 }
 .logo_img{
 	width: 143px;
@@ -82,7 +83,7 @@ nav a {
 	line-height: 40px;
 }
 nav a:hover{
-	text-decoration:none;
+	text-decoration: none;
 	color:#00A2C1;
 }
 nav a#pull {
